@@ -1,3 +1,5 @@
+"use strict";
+
 angular
     .module('core')
     .filter('checkmark', function () {

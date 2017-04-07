@@ -1,3 +1,5 @@
+"use strict";
+
 angular
     .module('core.phone')
     .factory('Phone', ['$resource',

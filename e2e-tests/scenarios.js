@@ -1,3 +1,5 @@
+"use strict";
+
 describe('PhoneCat Application', function() {
 
     it('should redirect `index.html` to `index.html#!/phones', function() {

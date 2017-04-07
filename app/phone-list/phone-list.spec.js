@@ -1,3 +1,5 @@
+"use strict";
+
 describe('phoneList', function() {
 
     beforeEach(module('phoneList'));

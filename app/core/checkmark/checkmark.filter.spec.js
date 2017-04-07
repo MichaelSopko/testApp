@@ -1,3 +1,5 @@
+"use strict";
+
 describe('checkmark', function() {
 
     beforeEach(module('core'));
